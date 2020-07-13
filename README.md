@@ -1,6 +1,7 @@
 # i_am_poor
 
-Just another simple Flutter application.
+Just another simple Flutter application. 
+Pictures credit: <a href="http://www.freepik.com">Designed by Freepik</a>
 
 ## Getting Started
 
